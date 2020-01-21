@@ -1,5 +1,3 @@
-//Original Designer:https://zhuanlan.zhihu.com/p/87679108
-//Learning
 
 function setup() {
     createCanvas(window.innerWidth,window.innerHeight);
